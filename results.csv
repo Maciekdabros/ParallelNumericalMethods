@@ -1,0 +1,2 @@
+Size,SequentialGauss,ParallelGauss(OPENMP),ParallelGauss(THREAD),SequentialJordan,ParallelJordan,ParallelJordan(THREAD),SequentialGaussSeidel,ParallelGaussSeidel,ParallelGaussSeidel(THREAD),SequentialJacobi,ParallelJacobi,ParallelJacobi(THREAD)
+2000,3.88413,2.17018,3.37292,4.77881,3.79927,4.51593,0.390362,0.105086,0.12024,0.355515,0.0931737,0.13512

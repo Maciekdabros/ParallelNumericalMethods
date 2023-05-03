@@ -1,0 +1,2 @@
+Intervals,SequentialMonteCarlo,ParallelMonteCarlo(OPENMP),ParallelMonteCarlo(THREAD),SequentialSimpson,ParallelSimpson(OPENMP),ParallelSimpson(THREAD)
+100000000,9.232,4.4132,4.48425,7.03951,3.31478,2.21512
