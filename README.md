@@ -1,0 +1,1 @@
+A project that compares the computation times of sequentially executed numerical methods, such as solving linear equations and integration methods, with the same methods executed in parallel using OpenMP and threads in C++
